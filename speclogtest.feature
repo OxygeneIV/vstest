@@ -1,7 +1,3 @@
-/*
-  Dummy File for SpecLog testing
-*/
-
 @Discuss with client
 Feature: US3 - see the cheapest books
     As a Customer, VIP Customer
