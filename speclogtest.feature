@@ -2,7 +2,8 @@ Feature: US3 - see the cheapest books
     As a Customer, VIP Customer
     I want to see the cheapest books
     So that I can get a good bargain
-
+    
+@important
 Scenario: Display 5 cheapest books
     Sort books by price (cheapest first)
 
