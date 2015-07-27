@@ -1,5 +1,3 @@
-@Discuss with client
-
 Feature: US3 - see the cheapest books
     As a Customer, VIP Customer
     I want to see the cheapest books
