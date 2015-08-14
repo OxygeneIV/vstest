@@ -17,4 +17,4 @@ Scenario: Display relevant information on books
 
 Scenario: Display placeholder if no thumbnail is available
 
-
+Another scenario
